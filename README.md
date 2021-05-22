@@ -1,7 +1,6 @@
 # Links
 
-Project Console: [console.firebase.google.com/project/reactsociall/overview](https://)
-Hosting URL: [reactsociall.web.app](https://)
+Hosting URL: https://budhia-reactsociall.netlify.app 
 
 Made by Rishabh Budhia
 
